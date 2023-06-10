@@ -1,0 +1,4 @@
+SMPAT1,Simpang Ampat 1,Alor Gajah,10,8,5,9,7,11
+SMPAT2,Simpang Ampat 2,Alor Gajah,6,4,3,5,4,7
+STNMLK1,Station Melaka 1,Melaka Tengah,12,10,8,11,9,13
+STNMLK2,Station Melaka 2,Melaka Tengah,9,7,6,8,6,10
